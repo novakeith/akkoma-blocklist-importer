@@ -10,7 +10,7 @@ myFile = "blocklist.csv"
 f = open(myFile, "r")
 
 # output file. Change name if you want
-outFile = "akkoma-MRF-config.json"
+outFile = "output.json"
 o = open(outFile, "w")
 
 # write beginning of json file
